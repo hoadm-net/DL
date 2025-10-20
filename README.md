@@ -40,6 +40,7 @@ Hands-on Deep Learning course with Python + Numpy, from basic concepts to practi
 - SGD variations
 - Momentum, Adam, RMSprop
 - Learning rate scheduling
+ - See: `lab05/`
 
 ### **Lab 06: Regularization** (Coming Soon)
 - Overfitting problem
