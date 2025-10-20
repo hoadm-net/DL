@@ -1,0 +1,58 @@
+# Deep Learning from Scratch - Lab-based Learning
+
+Hands-on Deep Learning course with Python + Numpy, from basic concepts to practical implementation.
+
+## 🎯 Objectives
+- Understand deeply how Neural Networks work
+- Code from scratch without frameworks (TensorFlow, PyTorch)
+- Master the mathematics behind Deep Learning
+- Learn through systematic hands-on labs
+
+## 📚 Lab Structure
+
+### **Lab 01: Fundamental Concepts** 🔥
+- Forward Propagation
+- Loss Functions (MSE)
+- Backward Propagation
+- Gradient Descent
+
+---
+
+### **Lab 02: Activation Functions** (Coming Soon)
+- Sigmoid, ReLU, Tanh
+- Non-linearity in Neural Networks
+- Vanishing gradient problem
+
+### **Lab 03: Multi-layer Networks** (Coming Soon)
+- Stacking layers
+- Deep neural networks
+- Backpropagation through multiple layers
+
+### **Lab 04: Classification Problems** (Coming Soon)
+- Binary classification
+- Softmax and Cross-entropy
+- Multi-class classification
+
+### **Lab 05: Optimization Algorithms** (Coming Soon)
+- SGD variations
+- Momentum, Adam, RMSprop
+- Learning rate scheduling
+
+### **Lab 06: Regularization** (Coming Soon)
+- Overfitting problem
+- L1/L2 regularization
+- Dropout
+
+### **Lab 07: Real Datasets** (Coming Soon)
+- MNIST handwritten digits
+- Data preprocessing
+- Model evaluation
+
+---
+
+## 🚀 Getting Started
+
+```bash
+cd lab01/
+# Start with the first lab
+```
