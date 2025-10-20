@@ -28,6 +28,7 @@ Hands-on Deep Learning course with Python + Numpy, from basic concepts to practi
 - Stacking layers
 - Deep neural networks
 - Backpropagation through multiple layers
+ - See: `lab03/`
 
 ### **Lab 04: Classification Problems** (Coming Soon)
 - Binary classification
