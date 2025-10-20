@@ -34,6 +34,7 @@ Hands-on Deep Learning course with Python + Numpy, from basic concepts to practi
 - Binary classification
 - Softmax and Cross-entropy
 - Multi-class classification
+ - See: `lab04/`
 
 ### **Lab 05: Optimization Algorithms** (Coming Soon)
 - SGD variations
