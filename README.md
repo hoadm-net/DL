@@ -18,10 +18,11 @@ Hands-on Deep Learning course with Python + Numpy, from basic concepts to practi
 
 ---
 
-### **Lab 02: Activation Functions** (Coming Soon)
+### **Lab 02: Activation Functions**
 - Sigmoid, ReLU, Tanh
 - Non-linearity in Neural Networks
 - Vanishing gradient problem
+- See: `lab02/`
 
 ### **Lab 03: Multi-layer Networks** (Coming Soon)
 - Stacking layers
