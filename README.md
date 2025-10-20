@@ -42,10 +42,11 @@ Hands-on Deep Learning course with Python + Numpy, from basic concepts to practi
 - Learning rate scheduling
  - See: `lab05/`
 
-### **Lab 06: Regularization** (Coming Soon)
+### **Lab 06: Regularization**
 - Overfitting problem
 - L1/L2 regularization
 - Dropout
+ - See: `lab06/`
 
 ### **Lab 07: Real Datasets** (Coming Soon)
 - MNIST handwritten digits
