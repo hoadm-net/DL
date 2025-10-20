@@ -48,10 +48,11 @@ Hands-on Deep Learning course with Python + Numpy, from basic concepts to practi
 - Dropout
  - See: `lab06/`
 
-### **Lab 07: Real Datasets** (Coming Soon)
+### **Lab 07: Real Datasets**
 - MNIST handwritten digits
-- Data preprocessing
-- Model evaluation
+- Data preprocessing and normalization
+- Model evaluation metrics
+ - See: `lab07/`
 
 ---
 
