@@ -24,19 +24,19 @@ Hands-on Deep Learning course with Python + Numpy, from basic concepts to practi
 - Vanishing gradient problem
 - See: `lab02/`
 
-### **Lab 03: Multi-layer Networks** (Coming Soon)
+### **Lab 03: Multi-layer Networks**
 - Stacking layers
 - Deep neural networks
 - Backpropagation through multiple layers
  - See: `lab03/`
 
-### **Lab 04: Classification Problems** (Coming Soon)
+### **Lab 04: Classification Problems**
 - Binary classification
 - Softmax and Cross-entropy
 - Multi-class classification
  - See: `lab04/`
 
-### **Lab 05: Optimization Algorithms** (Coming Soon)
+### **Lab 05: Optimization Algorithms**
 - SGD variations
 - Momentum, Adam, RMSprop
 - Learning rate scheduling
